@@ -103,6 +103,11 @@ const ChatApp = () => {
             )}
             {connected && (
                 <div>
+                    <div>
+                       <h1 className="font-semibold m-4">
+                        Channel name : {channel}
+                       </h1>
+                    </div>
                     <div
                         id="messages"
                         className="h-80 overflow-y-scroll p-4 border border-gray-300 rounded-md"
