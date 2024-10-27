@@ -2,7 +2,7 @@
 
 This application implements a basic publisher-subscriber mechanism in Go for real-time chat. Users can join individual channels to send and receive messages. It supports creating rooms based on channel names, broadcasting messages to all nodes, and connecting over a socket-based communication system.
 
-[![Watch the video](https://img.youtube.com/vi/7YTfTvonBKw/maxresdefault.jpg)](https://youtu.be/7YTfTvonBKw)
+[![Watch the video](https://img.youtube.com/vi/5A7HuIGUGnY/maxresdefault.jpg)](https://youtu.be/5A7HuIGUGnY)
 
 Click the image above to watch a demo of the application.
 
